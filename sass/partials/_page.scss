@@ -1,0 +1,33 @@
+@import "compass/css3";
+
+//-----------------------------------------------
+// The following html5-boilerplate styles should
+// probably be customized for each site
+//-----------------------------------------------
+body, select, input, textarea {
+  color: $font-color;
+  // Set your base font here, to apply evenly
+  // font-family: Georgia, serif;
+}
+
+//-----------------------------------
+// Add your own custom styles below
+//-----------------------------------
+
+html, body {
+  width: 100%;
+  height: 100%;
+  background: #1B1A1E;
+  color: #f1f1f1;
+}
+
+.container {
+  @include container;
+  // @include susy-grid-background;
+}
+
+header {}
+
+#main {}
+
+footer {}

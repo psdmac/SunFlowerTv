@@ -1,0 +1,7 @@
+Thumbs.db
+.DS_Store
+*~
+.sass-cache
+.coffeescript-cache
+compass_app_log.txt
+fire_app_log.txt
